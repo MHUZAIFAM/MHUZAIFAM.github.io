@@ -20,7 +20,7 @@ Electrical Engineering, UG
  RNNs, stacking RNN layers and bi-directional RNNs, and exploring hybrid RNN-CNN architectures to enhance model performance.
 
 ### Fault Detection of Induction Motor using Machine Learning
--Developed a machine learning system for detecting faults in induction motors by analyzing sensor data to identify anomalies and predict issues like broken rotors, bearing faults, and winding faults.
+- Developed a machine learning system for detecting faults in induction motors by analyzing sensor data to identify anomalies and predict issues like broken rotors, bearing faults, and winding faults.
 
 ### Face and Eye Detection System Using Computer Vision
 - Built a Python-based facial detection engine using pre-trained Haar classifiers with OpenCV, featuring a GUI created in Tkinter for real-time face and eye detection.
